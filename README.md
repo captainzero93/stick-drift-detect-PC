@@ -42,7 +42,7 @@ The following NuGet packages are required:
 
 ```bash
 # Using Git
-git clone https://github.com/captainzero93/stick-drink-detect-PC.git
+git clone https://github.com/captainzero93/stick-drift-detect-PC.git
 ```
 
 ## Usage ( Also provided a built Exe under Releases )
@@ -78,7 +78,7 @@ The application samples the controller's stick position over time and analyzes a
 2. Build Steps:
    ```bash
    git clone https://github.com/captainzero93/stick-drink-detect-PC.git
-   cd stick-drink-detect-PC
+   cd stick-drift-detect-PC
    ```
    - Open StickDrift.sln in Visual Studio
    - Restore NuGet packages
