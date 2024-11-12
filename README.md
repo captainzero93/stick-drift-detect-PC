@@ -23,7 +23,7 @@ This application supports any DirectInput compatible controllers, including:
 ## System Requirements
 
 - Windows 7 or later
-- .NET Framework 4.7.2 or higher
+- .NET Framework 4.8 or higher
 - DirectInput compatible controller
 - USB port or Bluetooth (depending on controller type)
 
@@ -72,7 +72,7 @@ The application samples the controller's stick position over time and analyzes a
 
 1. Prerequisites:
    - Visual Studio 2019 or later
-   - .NET Framework 4.7.2 SDK
+   - .NET Framework 4.8 SDK
    - NuGet Package Manager
 
 2. Build Steps:
