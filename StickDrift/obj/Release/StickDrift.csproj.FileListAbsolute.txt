@@ -1,0 +1,16 @@
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\bin\Release\StickDrift.exe.config
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\bin\Release\StickDrift.exe
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\bin\Release\StickDrift.pdb
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\bin\Release\SharpDX.DirectInput.dll
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\bin\Release\SharpDX.dll
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\bin\Release\SharpDX.pdb
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\bin\Release\SharpDX.DirectInput.pdb
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\bin\Release\SharpDX.DirectInput.xml
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\obj\Release\StickDrift.csproj.AssemblyReference.cache
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\obj\Release\StickDrift.Properties.Resources.resources
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\obj\Release\StickDrift.csproj.GenerateResource.cache
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\obj\Release\StickDrift.csproj.CoreCompileInputs.cache
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\obj\Release\StickDrift.csproj.Up2Date
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\obj\Release\StickDrift.exe
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\obj\Release\StickDrift.pdb
+C:\Users\Redacted\source\repos\StickDrift\StickDrift\obj\Release\StickDrift.Form1.resources
